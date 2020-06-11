@@ -10,6 +10,8 @@
 * [ゾンカ語におけるラテン字母名 / Latin-Letter Names for Dzongkha](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_dz.txt)
 * [チェロキー語におけるラテン字母名 / Latin-Letter Names for Cherokee](https://github.com/qvarie/qvalphabet/blob/master//latinjibo/latinalpha_chr.txt)
 * [イヌイット語におけるラテン字母名 / Latin-Letter Names for Inuktitut](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_iu.txt)
+### 推測表記によるラテン文字の字母名データ
+* [エジプト語におけるラテン字母名 / Latin-Letter Names for egyptian](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_egy.txt)
 
 # 作成者-Author
 
