@@ -1,0 +1,66 @@
+# トキポナ語によるラテン文字の字母名。
+# 参考 : https://en.wikibooks.org/wiki/Updated_jan_Pije's_lessons/Lesson_2_Pronunciation
+
+"A" == Akesi/アケシ
+"E" == Elena/エレナ
+"I" == Ilo/イロ
+"J" == Jan/ヤン
+"K" == Kala/カラ
+"L" == Luka/ルカ
+"M" == Mani/マニ
+"N" == Nena/ネナ
+"O" == Oko/オコ
+"P" == Pipi/ピピ
+"S" == Suno/スノ
+"T" == Tomo/トモ
+"U" == Uta/ウタ
+"W" == Waso/ワソ
+
+# トキポナによるラテン文字推測名称。
+# ラテン文字26字の字母名が不明のため、推測の名称です。
+
+"A" == A/ア
+"B" == Pe/ペ
+"C" == Se/セ
+"D" == Te/テ
+"E" == E/エ
+"F" == Epe/エペ
+"G" == Ke/ケ
+"H" == Aka/アカ
+"I" == I/イ
+"J" == Joto/ヨト
+"K" == Ka/カ
+"L" == Ele/エレ
+"M" == Eme/エメ
+"N" == Ene/エネ
+"O" == O/オ
+"P" == Pi/ピ
+"Q" == Ku/ク
+"R" == Alu/アル
+"S" == Ese/エセ
+"T" == Tewi/テウィ
+"U" == Yu/ユ
+"V" == Wi/ウィ
+"W" == Tapuliju/タプリユ
+"X" == Ekisi/エキシ
+"Y" == Wawi/ワウィ
+"Z" == Seta/セタ
+"Æ æ" == Asi/アシ
+"Ç ç" == Sesetiju/セセティユ
+"Ð ð" == Etu/エトゥ
+"Þ þ" == Ton/トン
+"ẞ ß" == Eseseta/エセセタ
+"Ŋ ŋ" == En/エン
+"Ə ə" == Suwa/スワ
+"Ƣ ƣ" == Kowi/コウィ
+"Ʀ ʀ" == Yulu/ユル
+"Ʃ ʃ" == Esi/エシ
+"Ʒ ʒ" == Esije/エシイェ
+"Ƿ ƿ" == Wen/ウェン
+"Ȣ ȣ" == U/ウ
+"Ɂ ɂ ʔ" == Amusa/アムサ
+"ᴥ" == Ewin/エウィン
+"Ꜣ ꜣ" == Alipu/アリプ
+"Ꜥ ꜥ" == Awin/アウィン
+"Ꜧ ꜧ" == Enku/エンク
+"ꟾ" == Ilonka/イロンカ
