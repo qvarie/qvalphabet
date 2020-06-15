@@ -8,6 +8,8 @@
 ## ラテン文字の字母名データ - Datas of Latin Letters
 * [日本語におけるラテン字母名 / Latin-Letter Names for Japanese](https://github.com/qvarie/qvalphabet/blob/master/latinalpha_jp.txt)
 * [漢字表記によるラテン字母名 / Latin-Letter Names for CJK](https://github.com/qvarie/qvalphabet/blob/master/latinalpha_cjk.txt)
+### ラテン文字の推測字母名
+* [トキポナにおけるラテン字母名 / Latin-Letter Names for Toki Pona](latinalpha_tokipona.txt)
 
 ## インド系文字の字母名データ- Datass of the Ideograms
 * [日本語におけるデーヴァナーガリー字母名 / Devanagari-Letter Names for Japanese](https://github.com/qvarie/qvalphabet/blob/master/nagarialpha_jp.txt)
