@@ -20,12 +20,12 @@
 "Q" == ᎩᏳ/Giyu
 "R" == Ꭰ/A
 "S" == ᎡᏍ/Es
-"T" == Ꮘ/Qui
+"T" == Ꮨ/Ti
 "U" == Ᏻ/Yu
 "V" == Ꮻ/Wi
 "W" == ᏛᏈᎵᏳ/Dvquiliyu
 "X" == ᎡᎩᏏ/Egisi
-"Y" == ᏩᎢ/Wai
+"Y" == ᏩᎢ/Wai[wai]
 "Z" == ᏤᏗ/Tsedi
 "Æ æ" == ᎠᏏ/Asi
 "Ð ð" == ᎡᏗ/Edi
@@ -34,15 +34,25 @@
 "Ŋ ŋ" == ᎡᏂᎩ/Enigi
 "Ə ə" == ᏏᏩ/Siwa
 "Ɣ ɣ" == ᎦᎹ/Gama
+"Ɩ ɩ" == ᎢᏲᏔ/Iyota
 "Ƣ ƣ" == Ꭶ/Ga
+"Ʀ ʀ" == Ꭵ/V
 "Ʃ ʃ" == ᎡᏏ/Esi
+"Ʊ ʊ" == ᎤᏈᏏᎶᏂ/Uquisiloni
 "Ʒ ʒ" == ᎡᏏ/Esi
 "Ȝ ȝ" == ᏲᎯ/Yohi
 "Ƿ ƿ" == ᏰᏂ/Weni
 "Ȣ ȣ" == Ꭴ/U
 "Ɑ ɑ" == ᎠᎵᏩ/Aliwa
+"ϴ θ" == ᏟᏔ/Tlita
+"ɸ" == ᏩᎢ/Wai[ʍai]
 "ᴥ" == ᎠᎢᏂ/Aini
 "Ꜣ ꜣ" == ᎠᎵᏫ/Aliwi
 "Ꜥ ꜥ" == ᎭᎢᏂ/Haini
 "Ꜧ ꜧ" == ᎮᏂᎩ/Henigi
 "Ꜩ ꜩ" == ᏖᏍᏤᏘ/Tetseti
+"Ꝩ ꝩ" == ᏪᏂᏗ/Wenidi
+"Ꭓ ꭓ" == ᎧᎢ/Kai
+"Ꞵ ꞵ" == ᏫᏔ/Wita
+"Ꞷ ꞷ" == /Omega
+"ꭠ" == ᏯᏘ/Yati
