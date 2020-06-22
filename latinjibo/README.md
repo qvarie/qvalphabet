@@ -8,6 +8,7 @@
 ## ラテン文字の字母名データ - Datas of Latin Letters
 * [現代ギリシャ語におけるラテン字母名 / Latin-Letter Names for Greek](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_el.txt)
 * [パーリ語におけるラテン字母名 / Latin-Letter Names for Pali](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_pi.txt)
+* [パンジャブ語におけるラテン字母名 / Latin-Letter Names for Punjabi](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_pi.txt)
 * [ゾンカ語におけるラテン字母名 / Latin-Letter Names for Dzongkha](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_dz.txt)
 * [マニプーリ語におけるラテン字母名 / Latin-Letter Names for Manipuli](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_mni.txt)
 * [ビルマ語におけるラテン字母名 / Latin-Letter Names for Burmese](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_my.txt)
