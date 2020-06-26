@@ -1,8 +1,8 @@
 # latinjibo
-ラテン文字以外の文字体系を使用する言語におけるラテン字母名データ。
+ラテン文字以外の文字体系を使用する言語を中心に取り上げるラテン字母名データ。
 
 # 説明 - Description
-ラテン文字以外の文字体系を使用する言語におけるラテン字母名データを取り上げます。
+ラテン文字以外の文字体系を使用する言語を中心にラテン字母名データを取り上げます。
 
 # 目次 - Index
 ## ラテン文字の字母名データ - Datas of Latin Letter-names
@@ -12,6 +12,7 @@
 * [パンジャブ語におけるラテン字母名 / Latin Letter-names for Punjabi](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_pa.txt)
 * [ゾンカ語におけるラテン字母名 / Latin Letter-names for Dzongkha](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_dz.txt)
 * [マニプーリ語におけるラテン字母名 / Latin Letter-names for Manipuli](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_mni.txt)
+* [オリヤー語におけるラテン字母名 / Latin Letter-names for Odia](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_or.txt)
 * [ビルマ語におけるラテン字母名 / Latin Letter-names for Burmese](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_my.txt)
 * [ヴァイ語におけるラテン字母名 / Latin Letter-names for Vai](https://github.com/qvarie/qvalphabet/blob/master//latinjibo/latinalpha_vai.txt)
 * [チェロキー語におけるラテン字母名 / Latin Letter-names for Cherokee](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_chr.txt)
