@@ -42,8 +42,8 @@
 "Ʃ ʃ" == ᎡᏏ/Esi
 "Ʊ ʊ" == ᎤᏈᏏᎶᏂ/Uquisiloni
 "Ʒ ʒ" == ᎡᏏ/Esi
-"Ȝ ȝ" == ᏲᎯ/Yohi
-"Ƿ ƿ" == ᏰᏂ/Weni
+"Ȝ ȝ" == ᏲᎯ/Yohi 又は ᏲᎦ/Yogi
+"Ƿ ƿ" == ᏫᏂ/Wini 又は ᏰᏂ/Weni
 "Ȣ ȣ" == Ꭴ/U
 "Ɑ ɑ" == ᎠᎵᏩ/Aliwa
 "ϴ θ" == ᏟᏔ/Tlita
@@ -56,6 +56,7 @@
 "Ꜧ ꜧ" == ᎮᏂᎩ/Henigi
 "Ꜩ ꜩ" == ᏖᏤᏘ/Tetseti
 "Ꝩ ꝩ" == ᏪᏂᏗ/Wenidi
+" Ꞌ ꞌ " == ᏌᎵᏘᏲ/Salitiyo 又は ᏌᎵᏘᎶ/Salitilo  
 "Ꭓ ꭓ" == ᎧᎢ/Kai
 "Ꞵ ꞵ" == ᏫᏔ/Wita
 "Ꞷ ꞷ" == ᎣᎺᎦ/Omega
