@@ -14,6 +14,7 @@
 * [マニプーリ語におけるラテン字母名 / Latin Letter-names for Manipuli](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_mni.txt)
 * [オリヤー語におけるラテン字母名 / Latin Letter-names for Odia](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_or.txt)
 * [ビルマ語におけるラテン字母名 / Latin Letter-names for Burmese](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_my.txt)
+* [北部タイ語におけるラテン字母名 / Latin Letter-names for Northern Thai](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_my.txt)
 * [ヴァイ語におけるラテン字母名 / Latin Letter-names for Vai](https://github.com/qvarie/qvalphabet/blob/master//latinjibo/latinalpha_vai.txt)
 * [チェロキー語におけるラテン字母名 / Latin Letter-names for Cherokee](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_chr.txt)
 * [イヌイット語におけるラテン字母名 / Latin Letter-names for Inuktitut](https://github.com/qvarie/qvalphabet/blob/master/latinjibo/latinalpha_iu.txt)
