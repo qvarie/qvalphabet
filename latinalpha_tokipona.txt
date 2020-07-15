@@ -1,20 +1,20 @@
 # トキポナ語によるラテン文字の字母名。
 # 参考 : https://en.wikibooks.org/wiki/Updated_jan_Pije's_lessons/Lesson_2_Pronunciation
 
-"A" == Akesi/アケシ
-"E" == Elena/エレナ
-"I" == Ilo/イロ
-"J" == Jan/ヤン
-"K" == Kala/カラ
-"L" == Luka/ルカ
-"M" == Mani/マニ
-"N" == Nena/ネナ
-"O" == Oko/オコ
-"P" == Pipi/ピピ
-"S" == Suno/スノ
-"T" == Tomo/トモ
-"U" == Uta/ウタ
-"W" == Waso/ワソ
+"A" == Akesi/アケシ = 🦎
+"E" == Elena/エレナ = ⏩
+"I" == Ilo/イロ = ⚙
+"J" == Jan/ヤン = 👤
+"K" == Kala/カラ = 🐟
+"L" == Luka/ルカ = ✋
+"M" == Mani/マニ = 💰
+"N" == Nena/ネナ = 🗻
+"O" == Oko/オコ = 👁
+"P" == Pipi/ピピ = 🐞
+"S" == Suno/スノ = ☀
+"T" == Tomo/トモ = 🏠
+"U" == Uta/ウタ = 👄
+"W" == Waso/ワソ = 🦅
 
 # トキポナによるラテン文字推測名称。
 # ラテン文字26字の字母名が不明のため、推測の名称です。
